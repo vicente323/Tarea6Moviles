@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270722670807",
+    "project_id": "tarea-querys",
+    "storage_bucket": "tarea-querys.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270722670807:android:65ee4e3e31baf13b331092",
+        "android_client_info": {
+          "package_name": "com.example.querys_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK_qvOYIiiBOS5sskozzrbYDswDlnMfeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

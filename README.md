@@ -16,8 +16,11 @@ Hemos aprendido como funciona el entorno que nos brinda Firebase y especificamen
 
 ### Screenshots de la app
 
-![Screenshot01](<./screenshots/YOUR_NAME.png>)
-![Screenshot02](<./screenshots/YOUR_NAME.png>)
+![S](<./screenshots/S1.png>)
+![S2](<./screenshots/S2.png>)
+![S3](<./screenshots/S3.png>)
+![S4](<./screenshots/S4.png>)
+![S5](<./screenshots/S5.png>)
 
 ### Referencias
 https://firebase.flutter.dev/docs/firestore/usage/
